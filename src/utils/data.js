@@ -1,0 +1,53 @@
+export const data = {
+  name: "Kishor Abnave",
+  city: "Pune",
+  country: "India",
+  designation: "Computer Engineering Student",
+  study: "BE",
+  major: "Computer Engineering",
+  university: "",
+  yearGraduated: "2027",
+  titles: [
+    {
+      title: ["Computer Engineer"],
+      autoStart: true,
+      loop: true,
+      pauseFor: 5000000,
+    },
+    {
+      title: [
+        "JavaScript Enigneering",
+        "React JS",
+        "Sveltekit JS",
+        "Next JS",
+        "Cypress",
+        "Google Chrome Extension",
+      ],
+      autoStart: true,
+      loop: true,
+      pauseFor: 1000,
+    },
+    {
+      title: ["Python", "C/C++", "Flask", "HTML",],
+      autoStart: true,
+      loop: true,
+      pauseFor: 1000,
+    },
+  ],
+  socials: {
+    linkedin: "https://www.linkedin.com/in/kishor-abnave-627013293",
+    github: "https://github.com/kishorabnave81-star",
+    instagram: "https://www.instagram.com/kishor.abnave.35?igsh=OXZxNXhjbGdremd1",
+    whatsapp: "+918605124825",
+  },
+  technologies: [
+    "Python",
+    "C/C++",
+    "HTML",
+    "Frontend",
+    "Backend",
+    "web development",
+    "App development",
+    "Full Stack",
+  ],
+};
